@@ -2,7 +2,7 @@
 * [week1](https://github.com/samuel80402/sam/tree/master/week1)
 * [week2](https://github.com/samuel80402/sam/tree/master/week2)
 * [week3](https://github.com/samuel80402/sam/tree/master/week3)
-  * [QuickSort]
+  * [QuickSort](https://github.com/samuel80402/sam/blob/master/week3/quick_sort%20(1).ipynb)
 * [week4](https://github.com/samuel80402/sam/tree/master/week4)
 * [week5](https://github.com/samuel80402/sam/tree/master/week5)
 
