@@ -5,6 +5,7 @@
 * [week3](https://github.com/samuel80402/sam/tree/master/week3)
   * [QuickSort github](https://github.com/samuel80402/sam/blob/master/week3/quick_sort%20(2).ipynb)
   * [QuickSort 網頁版](https://nbviewer.jupyter.org/github/samuel80402/sam/blob/master/week3/quick_sort%20%282%29.ipynb)
+  * [流程圖](https://github.com/samuel80402/sam/blob/master/week3/%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E9%80%B2%E8%A1%8C%E8%AA%AA%E6%98%8E.png)
 * [week4](https://github.com/samuel80402/sam/tree/master/week4)
 * [week5](https://github.com/samuel80402/sam/tree/master/week5)
 
