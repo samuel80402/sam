@@ -28,6 +28,7 @@ class Solution:
                 return int(str(x)[0]+str(x)[:0:-1])
 ```
 ## Jewels and Stones
+這題是給定一組字母為對照組，找出另一組字母中有幾個同樣的字母。由於給的字母組是字串形式，而在尋找的過程中，每個字母都算是單一元素，因此我先把字串換成清單，再由程式去判斷要尋找的那組字母中有多少個字母在對照組，並回傳數量。
 ```python
 class Solution:
     def numJewelsInStones(self, J: str, S: str) -> int:
@@ -40,6 +41,7 @@ class Solution:
         return n
 ```
 ## Palindrome Number
+這題是看數字轉成字串之後，倒轉過來後是不是跟原本的組成順序一樣，並回傳True or False。這題沿用我在倒轉數字的程式碼所學到的方式作為條件判斷。
 ```python
 class Solution:
     def isPalindrome(self, x: int) -> bool:
@@ -49,6 +51,7 @@ class Solution:
             return False
 ```
 ## Squares of a Sorted
+這題的目的是把原本List的數字平方之後再排序輸出，所以我用了簡單的方式先平方再排序。
 ```python
 class Solution:
     def sortedSquares(self, A: List[int]) -> List[int]:
