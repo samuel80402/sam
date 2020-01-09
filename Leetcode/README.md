@@ -28,7 +28,33 @@ class Solution:
                 return int(str(x)[0]+str(x)[:0:-1])
 ```
 ## Jewels and Stones
-
+```python
+class Solution:
+    def numJewelsInStones(self, J: str, S: str) -> int:
+        n=0
+        j = list(J)
+        s = list(S)
+        for i in s:
+            if i in j:
+                n+=1
+        return n
+```
 ## Palindrome Number
-
+```python
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        if str(x) == str(x)[::-1]:
+            return True
+        else:
+            return False
+```
 ## Squares of a Sorted
+```python
+class Solution:
+    def sortedSquares(self, A: List[int]) -> List[int]:
+        answer = []
+        for i in A:
+            answer.append(i**2)
+        answer.sort()
+        return answer
+```
