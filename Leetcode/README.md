@@ -12,7 +12,7 @@ class Solution:
                     return [i,j]
 ```
 ## Reverse Integer
-這題的題目是給定一個數值，回傳倒轉過的該數值，我參考了[如何倒轉數字] (https://www.quora.com/How-can-I-reverse-a-number-using-Python)的方式去做，並修改一下來處理負數的問題。
+這題的題目是給定一個數值，回傳倒轉過的該數值，我參考了 [如何倒轉數字](https://www.quora.com/How-can-I-reverse-a-number-using-Python)的方式去做，並修改一下來處理負數的問題。
 ```python
 class Solution:
     def reverse(self, x: int) -> int:
